@@ -28,7 +28,7 @@
     </div>
   <div class="footer">
     Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-    Coded by <a href="#">Medusa Collins</a>.
+    Coded by <a href="https://github.com/MedusaCollins">Medusa Collins</a>.
   </div>
 </body>
 </html>
